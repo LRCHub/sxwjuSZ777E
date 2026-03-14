@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Unmellow",
+  "base_artist": "7co",
+  "createdAt": "2026-03-14T12:32:46.401675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unmellow",
+      "artist": "7co",
+      "has_synced": true,
+      "path": "select/01_Unmellow_7co.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unmellow",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_Unmellow_7co.txt"
+    }
+  ]
+}
